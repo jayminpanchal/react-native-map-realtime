@@ -55,14 +55,18 @@ export default class MapReceiverProject extends Component {
                         latitudeDelta: 0.001,
                         longitudeDelta: 0.002,
                     }}>
-                    {this.state.eventsReceived.map((row, val) => (
+                    {/*{this.state.eventsReceived.map((row, val) => (
                         <MapView.Marker
                             key={val}
                             coordinate={{
                                 latitude: JSON.parse(row).lat,
                                 longitude: JSON.parse(row).lng,
                             }}/>
-                    ))}
+                    ))}*/}
+                    <MapView.Polyline
+                        strokeWidth={2}
+                        strokeColor="#000"
+                        coordinates={this.state.eventsReceived}/>
                 </MapView>
 
             </View>
