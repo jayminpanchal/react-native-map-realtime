@@ -17,11 +17,31 @@ import deepstream from 'deepstream.io-client-js';
 export default class MapReceiverProject extends Component {
     constructor(props) {
         super(props);
-        this.ds = deepstream('wss://localhost:5250').login({});
+        this.ds = deepstream('wss://035.deepstreamhub.com?apiKey=bfdc6fe2-4be7-415b-9eaa-80c59f062186').login({});
         this.ds.on('error', (err) => {
             console.log(err)
         });
+        this.state = {
+            value: '{"lat": 23.06618,"lng": 72.5317247}',
+            eventsReceived: [],
+            latlng: {
+                latitude: 23.06618,
+                longitude: 72.5317247
+            }
+        };
+        this.event = this.props.event;
 
+        this.ds.event.subscribe('event-data', data => {
+            let latitude = JSON.parse(data).lat;
+            let longitude = JSON.parse(data).lng;
+            let newLatLng = {
+                latitude: latitude,
+                longitude: longitude,
+            };
+            this.setState({value: data});
+            this.setState({latlng: newLatLng});
+            this.setState({eventsReceived: [...this.state.eventsReceived, newLatLng]});
+        });
     }
 
     render() {
@@ -35,6 +55,14 @@ export default class MapReceiverProject extends Component {
                         latitudeDelta: 0.001,
                         longitudeDelta: 0.002,
                     }}>
+                    {this.state.eventsReceived.map((row, val) => (
+                        <MapView.Marker
+                            key={val}
+                            coordinate={{
+                                latitude: JSON.parse(row).lat,
+                                longitude: JSON.parse(row).lng,
+                            }}/>
+                    ))}
                 </MapView>
 
             </View>
