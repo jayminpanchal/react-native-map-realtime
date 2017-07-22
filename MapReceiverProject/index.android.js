@@ -12,8 +12,18 @@ import {
     View
 } from 'react-native';
 import MapView from 'react-native-maps';
+import deepstream from 'deepstream.io-client-js';
 
 export default class MapReceiverProject extends Component {
+    constructor(props) {
+        super(props);
+        this.ds = deepstream('wss://localhost:5250').login({});
+        this.ds.on('error', (err) => {
+            console.log(err)
+        });
+
+    }
+
     render() {
         return (
             <View style={styles.container}>
