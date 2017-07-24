@@ -4,7 +4,8 @@ import {
 } from 'react-native';
 import {Card, Button, FormInput, FormLabel} from 'react-native-elements';
 import deepstream from 'deepstream.io-client-js';
-import {onSignIn} from "../auth/index";
+import {onSignIn} from "../auth";
+import {WS_URL} from "../constant";
 
 export default class Login extends React.Component {
     constructor(props) {
@@ -42,7 +43,7 @@ export default class Login extends React.Component {
 
     login() {
         alert(this.state.email + " " + this.state.password);
-        this.ds = deepstream('wss://localhost:5250').login({
+        this.ds = deepstream(WS_URL).login({
             email: this.state.email,
             password: this.state.password
         }, (success, data) => {
@@ -53,7 +54,7 @@ export default class Login extends React.Component {
             alert(JSON.stringify(data));
         });
         this.ds.on('error', (err) => {
-            alert(err);
+            alert("Login Page" + JSON.stringify(err));
         });
     }
 }
