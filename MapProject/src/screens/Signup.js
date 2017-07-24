@@ -19,7 +19,7 @@ export default class Signup extends React.Component {
                     <Button
                         buttonStyle={{marginTop: 20}}
                         backgroundColor="#03A9F4"
-                        title="SIGN IN"/>
+                        title="SIGN UP"/>
                 </Card>
             </View>
         );

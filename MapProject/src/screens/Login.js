@@ -18,6 +18,11 @@ export default class Login extends React.Component {
                         buttonStyle={{marginTop: 20}}
                         backgroundColor="#03A9F4"
                         title="SIGN IN"/>
+                    <Button
+                        buttonStyle={{marginTop: 20}}
+                        onPress={() => this.props.navigation.navigate('SignUp')}
+                        backgroundColor="#00BCD4"
+                        title="SIGN UP"/>
                 </Card>
             </View>
         );
