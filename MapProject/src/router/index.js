@@ -6,10 +6,6 @@ import Login from '../screens/Login';
 import Signup from '../screens/Signup';
 import Home from '../screens/Home';
 
-const headerStyle = {
-    marginTop: Platform.OS === "android" ? StatusBar.currentHeight : 0
-};
-
 export const NavNotAuthenticated = StackNavigator({
     SignIn: {
         screen: Login,
@@ -29,8 +25,7 @@ export const NavAuthenticated = StackNavigator({
     Home: {
         screen: Home,
         navigationOptions: {
-            title: "Home",
-            headerStyle
+            title: "Home"
         }
     }
 });
