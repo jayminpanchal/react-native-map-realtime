@@ -11,59 +11,19 @@ import {
     Text,
     View
 } from 'react-native';
-import deepstream from 'deepstream.io-client-js';
+import {Navigation} from 'react-native-navigation';
+import Login from './app/screens/Login';
 
 export default class MapProject extends Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            latitude: null,
-            longitude: null,
-            error: null,
-            value: null
-        };
-    }
-
 
     render() {
         return (
-            <View style={styles.container}>
-                <Text>Latitude: {this.state.latitude}</Text>
-                <Text>Longitude: {this.state.longitude}</Text>
-                {this.state.error ? <Text>Error: {this.state.error}</Text> : null}
-            </View>
+            <Login/>
         );
     }
 
     componentDidMount() {
-        this.ds = deepstream('wss://localhost:5250').login({});
-        this.ds.on('error', (err) => {
-            console.log(err);
-        });
-        this.setLatLng();
-    }
 
-    setLatLng() {
-        navigator.geolocation.getCurrentPosition(
-            (position) => {
-                this.setState({
-                    latitude: position.coords.latitude,
-                    longitude: position.coords.longitude,
-                    error: null,
-                });
-                let location = {
-                    lat: this.state.latitude,
-                    lng: this.state.longitude
-                };
-                this.ds.event.emit('event-data', JSON.stringify(location));
-                //this.sendLatLng();
-            },
-            (error) => this.setState({error: error.message}),
-            {timeout: 20000, maximumAge: 1000},
-        );
-        window.setTimeout(() => {
-            this.setLatLng();
-        }, 5000);
     }
 }
 
