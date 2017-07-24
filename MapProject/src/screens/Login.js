@@ -42,16 +42,15 @@ export default class Login extends React.Component {
     }
 
     login() {
-        alert(this.state.email + " " + this.state.password);
         this.ds = deepstream(WS_URL).login({
             email: this.state.email,
             password: this.state.password
         }, (success, data) => {
+            alert(success);
             if (success) {
                 onSignIn(data);
                 this.props.navigation.navigate('NavAuthenticated');
             }
-            alert(JSON.stringify(data));
         });
         this.ds.on('error', (err) => {
             alert("Login Page" + JSON.stringify(err));
