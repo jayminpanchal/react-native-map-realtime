@@ -2,7 +2,64 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a8cfdb5c-b642-4911-9762-fef9afd81b94" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/MapReceiverProject/android/gradle/wrapper/gradle-wrapper.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/react-native-map-realtime.iml" afterPath="$PROJECT_DIR$/.idea/react-native-map-realtime.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapProject/android/app/build.gradle" afterPath="$PROJECT_DIR$/MapProject/android/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapProject/android/app/src/main/java/com/mapproject/MainActivity.java" afterPath="$PROJECT_DIR$/MapProject/android/app/src/main/java/com/mapproject/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapProject/android/app/src/main/java/com/mapproject/MainApplication.java" afterPath="$PROJECT_DIR$/MapProject/android/app/src/main/java/com/mapproject/MainApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapProject/android/settings.gradle" afterPath="$PROJECT_DIR$/MapProject/android/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapProject/ios/MapProject.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/MapProject/ios/MapProject.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapProject/package.json" afterPath="$PROJECT_DIR$/MapProject/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/.babelrc" afterPath="$PROJECT_DIR$/MapReceiverProject/.babelrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/.buckconfig" afterPath="$PROJECT_DIR$/MapReceiverProject/.buckconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/.flowconfig" afterPath="$PROJECT_DIR$/MapReceiverProject/.flowconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/.gitattributes" afterPath="$PROJECT_DIR$/MapReceiverProject/.gitattributes" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/.gitignore" afterPath="$PROJECT_DIR$/MapReceiverProject/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/.watchmanconfig" afterPath="$PROJECT_DIR$/MapReceiverProject/.watchmanconfig" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/__tests__/index.android.js" afterPath="$PROJECT_DIR$/MapReceiverProject/__tests__/index.android.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/__tests__/index.ios.js" afterPath="$PROJECT_DIR$/MapReceiverProject/__tests__/index.ios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/app/BUCK" afterPath="$PROJECT_DIR$/MapReceiverProject/android/app/BUCK" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/app/build.gradle" afterPath="$PROJECT_DIR$/MapReceiverProject/android/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/MapReceiverProject/android/app/proguard-rules.pro" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/java/com/mapreceiverproject/MainActivity.java" afterPath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/java/com/mapreceiverproject/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/java/com/mapreceiverproject/MainApplication.java" afterPath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/java/com/mapreceiverproject/MainApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/MapReceiverProject/android/app/src/main/res/values/styles.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/build.gradle" afterPath="$PROJECT_DIR$/MapReceiverProject/android/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/gradle.properties" afterPath="$PROJECT_DIR$/MapReceiverProject/android/gradle.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/MapReceiverProject/android/gradle/wrapper/gradle-wrapper.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/gradlew.bat" afterPath="$PROJECT_DIR$/MapReceiverProject/android/gradlew.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/keystores/BUCK" afterPath="$PROJECT_DIR$/MapReceiverProject/android/keystores/BUCK" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/keystores/debug.keystore.properties" afterPath="$PROJECT_DIR$/MapReceiverProject/android/keystores/debug.keystore.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/android/settings.gradle" afterPath="$PROJECT_DIR$/MapReceiverProject/android/settings.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/app.json" afterPath="$PROJECT_DIR$/MapReceiverProject/app.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/index.android.js" afterPath="$PROJECT_DIR$/MapReceiverProject/index.android.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/index.ios.js" afterPath="$PROJECT_DIR$/MapReceiverProject/index.ios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject-tvOS/Info.plist" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject-tvOS/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject-tvOSTests/Info.plist" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject-tvOSTests/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject.xcodeproj/xcshareddata/xcschemes/MapReceiverProject-tvOS.xcscheme" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject.xcodeproj/xcshareddata/xcschemes/MapReceiverProject-tvOS.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject.xcodeproj/xcshareddata/xcschemes/MapReceiverProject.xcscheme" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject.xcodeproj/xcshareddata/xcschemes/MapReceiverProject.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject/AppDelegate.h" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject/AppDelegate.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject/AppDelegate.m" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject/AppDelegate.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject/Base.lproj/LaunchScreen.xib" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject/Base.lproj/LaunchScreen.xib" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject/Images.xcassets/AppIcon.appiconset/Contents.json" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject/Images.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject/Info.plist" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject/main.m" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProject/main.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProjectTests/Info.plist" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProjectTests/Info.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProjectTests/MapReceiverProjectTests.m" afterPath="$PROJECT_DIR$/MapReceiverProject/ios/MapReceiverProjectTests/MapReceiverProjectTests.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MapReceiverProject/package.json" afterPath="$PROJECT_DIR$/MapReceiverProject/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,23 +71,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="index.android.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MapReceiverProject/index.android.js">
+        <entry file="file://$PROJECT_DIR$/MapProject/index.android.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="68" selection-end-column="65" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-                <element signature="e#89#128#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MapReceiverProject/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+            <state relative-caret-position="-703">
+              <caret line="38" column="50" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -48,6 +92,10 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/MapReceiverProject/package.json" />
         <option value="$PROJECT_DIR$/MapReceiverProject/index.android.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/MapProject/android/app/build.gradle" />
+        <option value="$PROJECT_DIR$/MapProject/android/app/src/main/java/com/mapproject/MainApplication.java" />
+        <option value="$PROJECT_DIR$/MapProject/android/app/src/main/java/com/mapproject/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -66,6 +114,10 @@
   </component>
   <component name="NodeModulesDirectoryManager">
     <handled-path value="$PROJECT_DIR$/MapProject/node_modules" />
+    <handled-path value="$PROJECT_DIR$/MapReceiverProject/node_modules" />
+  </component>
+  <component name="PhpServers">
+    <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
@@ -89,6 +141,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="react-native-map-realtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-map-realtime" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="react-native-map-realtime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-map-realtime" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="MapProject" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Project Files">
           <expand>
@@ -105,23 +174,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="react-native-map-realtime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-native-map-realtime" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="react-native-map-realtime" type="b2602c69:ProjectViewProjectNode" />
-              <item name="react-native-map-realtime" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="MapReceiverProject" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -147,6 +199,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="a8cfdb5c-b642-4911-9762-fef9afd81b94" name="Default" comment="" />
@@ -157,26 +212,27 @@
       <workItem from="1500620152796" duration="330000" />
       <workItem from="1500620940645" duration="225000" />
       <workItem from="1500645292686" duration="512000" />
-      <workItem from="1500697233650" duration="1174000" />
+      <workItem from="1500697233650" duration="1453000" />
+      <workItem from="1501042321492" duration="116000" />
+      <workItem from="1501048446474" duration="2293000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2241000" />
+    <option name="totallyTimeSpent" value="4929000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1535" height="904" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25990596" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26729348" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="ReactNative" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.316" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.496" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JSON Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -189,9 +245,34 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="ReactNative" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32933334" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.496" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="JSON Viewer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26729348" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.gradle" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -227,10 +308,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/MapProject/index.android.js">
+    <entry file="file://$PROJECT_DIR$/MapReceiverProject/index.android.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="38" column="50" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#89#128#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MapReceiverProject/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -250,30 +343,82 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MapReceiverProject/index.android.bak">
+    <entry file="file://$PROJECT_DIR$/MapReceiverProject/index.android.bak" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="54">
+            <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MapReceiverProject/index.android.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1421">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="18">
+          <caret line="76" column="34" lean-forward="false" selection-start-line="76" selection-start-column="34" selection-end-line="76" selection-end-column="34" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#89#128#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MapReceiverProject/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="16" column="4" lean-forward="true" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
+          <caret line="16" column="4" lean-forward="false" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MapReceiverProject/index.android.js">
+    <entry file="file://$PROJECT_DIR$/MapProject/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="68" selection-end-column="65" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#128#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MapProject/android/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MapProject/android/app/src/main/java/com/mapproject/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="43" lean-forward="false" selection-start-line="4" selection-start-column="43" selection-end-line="4" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MapProject/android/app/src/main/java/com/mapproject/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MapProject/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="138" column="47" lean-forward="false" selection-start-line="138" selection-start-column="47" selection-end-line="138" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MapProject/index.android.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-703">
+          <caret line="38" column="50" lean-forward="false" selection-start-line="38" selection-start-column="50" selection-end-line="38" selection-end-column="50" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -10,6 +10,7 @@
     "deepstream.io-client-js": "^2.2.1",
     "react": "16.0.0-alpha.12",
     "react-native": "0.46.4",
+    "react-native-navigation": "^1.1.151",
     "url": "^0.11.0"
   },
   "devDependencies": {
