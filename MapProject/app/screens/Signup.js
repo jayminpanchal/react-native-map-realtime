@@ -4,11 +4,13 @@ import {
 } from 'react-native';
 import {Card, Button, FormInput, FormLabel} from 'react-native-elements';
 
-export default class Login extends React.Component {
+export default class Signup extends React.Component {
     render() {
         return (
             <View style={{paddingVertical: 20}}>
                 <Card>
+                    <FormLabel>Name</FormLabel>
+                    <FormInput placeholder="Name..."/>
                     <FormLabel>Email</FormLabel>
                     <FormInput placeholder="Email address..."/>
                     <FormLabel>Password</FormLabel>
